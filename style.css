@@ -1,10 +1,5 @@
-.font {
+h1 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
     color: red;
-}
-
-.smaller {
-    max-width: 500px;
-    max-height: fit-content;
 }
